@@ -21,3 +21,6 @@ NFT market and has shown glimpses of a future paradigm shift in the art world.
 ![disc3](https://github.com/infocrusader/NFT-Marketplace/assets/61936287/17f69ba9-f111-4ca2-bc8f-067467e6c4f5)
 
 ![discoveryn](https://github.com/infocrusader/NFT-Marketplace/assets/61936287/3080b237-1999-475a-a863-f8aefa4f9590)
+
+# What's happening under the hood
+![setup drawio(1)](https://github.com/infocrusader/NFT-Marketplace/assets/61936287/eaf63afd-df12-4fda-ac14-c07b0fbfa082)
